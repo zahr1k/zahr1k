@@ -1,6 +1,6 @@
 # Hello! 🌸
 
-Hi! I'm **Zahra Kamel**, a web developer from Iraq. I love building beautiful, interactive websites. 💻
+Hi! I'm **Zahra Kamil**, a web developer from Iraq. I love building beautiful, interactive websites. 💻
 
 
 ## 🛠 Technologies I Know
