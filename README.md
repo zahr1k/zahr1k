@@ -20,4 +20,4 @@ Hi! I'm **Zahra Kamel**, a web developer from Iraq. I love building beautiful, i
 
 ## 🔍 Where to Find Me
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" height="25" />]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/zahraa-kamil-4b08b6258/))&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/zahraa-kamil-4b08b6258/)
